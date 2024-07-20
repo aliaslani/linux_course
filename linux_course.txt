@@ -1,0 +1,28 @@
+An open-source operationg system based on an older operating system called Unix
+Linus Torvalds based on open-source concept
+open-source: everyone can access and read the source code and change it based on their needs and create a distibution
+In open source we feel strongly that to realy do something well, you have to get a lot of poeople involved.(over 16000 developers from more than 1400 companies);
+Over than 96% of operating system of servers.
+first option for IOT 
+Linux Professional Institute  LINUX ESSENTIALS (PROCESSES, PROGRAMS AND COMPONENTS OF LINUX OPERATING SYSTEM);
+CURRENT VERSION OF EXAM IS 1.6
+CLOSED BOOK EXAM
+60 MINUTES
+40 MULTIPLE CHOICES QUESTIONS
+>500 YOU PASS THE EXAM
+
+
+Linux:
+A family of open source unix-like operating system, typically packaged into a distribution
+open-source philosophy
+GNU (general public license)
+Appache license
+MIT license
+Unlicense
+
+Linux Distibutions (distro)
+Linux kernel(which is core computer program and control everything) + supporting softwares and libraries + configuration files
+
+kernel: a low level computer program which functions as the bridge between the user and the computer resources
+different distributions have different scripts and utilities to lunch programs.
+
